@@ -69,7 +69,7 @@ public class Main {
                 System.out.println("Осень");
                 break;
             default:
-                System.out.println("Некорректный месяц" + monthNumber);
+                System.out.println("Некорректный месяц: " + monthNumber);
         }
     }
 }
